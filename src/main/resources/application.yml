@@ -6,7 +6,7 @@ server:
     port: 5007
 
 spring.datasource:
-    url: jdbc:mysql://localhost:3306/saloondb
+    url: jdbc:mysql://localhost:3306/notificationsdb
     username: root
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
